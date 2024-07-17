@@ -3,6 +3,9 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/eclipse&file=livescript.mlx)
 
+View Sunpy app in Focus mode:
+https://matlab.mathworks.com/open/github/v1?repo=yanndebray/eclipse&file=sunpy.mlapp&focus=true
+
 Analyze the total solar eclipse
 
 2024\-04\-08
